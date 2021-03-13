@@ -5,7 +5,7 @@ A runner game project that is developed for Algorithm and Programming Lecture by
 
 ## Development
 
-Since Allegro is a 2D game library, and my project is making a 3D game, I had some many limitations because I could just draw 2D graphics. After a while, I decided to use perspective drawing to make 3D-like game. It means that, if an object gets closer to the player (or screen) it should get bigger. By using this technique, I created a 3d-like game.
+Since Allegro is a 2D game library, and my project was making a 3D game, I had many limitations because I could just draw 2D graphics. After a while, I decided to use perspective drawing to make 3D-like game. It means that, if an object gets closer to the player (or screen) it should get bigger. By using this technique, I created a 3d-like game.
 
 ## The Game
 
